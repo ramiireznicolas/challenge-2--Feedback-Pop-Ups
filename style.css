@@ -38,6 +38,10 @@ h2{
     padding: 4% 15%;
 }
 
+.btn:hover{
+    background-color: rgb(247, 112, 112);
+}
+
 .btn a{
     text-decoration: none;
     color: #151A41;
