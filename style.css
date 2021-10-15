@@ -50,14 +50,14 @@ h2{
 /* mediaqueries */
 @media (max-width:540px){
     .container{
-        width: 410px;
-        height: 441px;
+        width: 400px;
+        height: 431px;
     }
 }
 
 @media (max-width:411px){
     .container{
-        width: 350px;
-        height: 381px;
+        width: 340px;
+        height: 371px;
     }
 }
